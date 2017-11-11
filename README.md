@@ -1,10 +1,10 @@
 # cars
 
 ## Technical requirements
-1- Add a *car* to DB - PUT
-2- List all _cars_ - GET
-3- Delete a **car** - DELETE
-4- List a ~~car~~ - GET
+1. Add a *car* to DB - PUT
+2. List all _cars_ - GET
+3. Delete a **car** - DELETE
+4. List a ~~car~~ - GET
 
 
 ## Tool/Technology Used in this project
